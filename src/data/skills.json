@@ -16,8 +16,8 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "React Native",
-    "imageSrc": "skills/react.png"
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "Java",
@@ -36,7 +36,7 @@
     "imageSrc": "skills/mysql.png"
   },
   {
-    "title": "Docker",
+    "title": "Figma",
     "imageSrc": "skills/figma.png"
   }
 ]
