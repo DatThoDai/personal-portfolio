@@ -1,0 +1,33 @@
+[
+  {
+    "title": "TALKO CHAT MOBILE APPLICATION",
+    "imageSrc": "projects/project1.png",
+    "description": "Developed a full-featured real-time chat mobile application using React Native with complete messaging functionality, user authentication, and media management capabilities.",
+    "skills": ["React Native", "Redux Toolkit", "Socket.IO", "JWT", "RESTful APIs"],
+    "demo": "https://github.com/DatThoDai/Talko-chat",
+    "source": "https://github.com/DatThoDai/Talko-chat"
+  },
+  {
+    "title": "EYEWEAR STORE E-COMMERCE WEBSITE",
+    "imageSrc": "projects/project2.png",
+    "description": "Developed a comprehensive e-commerce website for an eyewear store featuring product catalog, shopping cart, and virtual try-on functionality with responsive design and modern UI/UX.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Bootstrap 4", "jQuery"],
+    "demo": "https://github.com/DatThoDai/eyeglasses-ecommerce-website",
+    "source": "https://github.com/DatThoDai/eyeglasses-ecommerce-website"
+  },  {
+    "title": "MOVIE CYBER WEBSITE",
+    "imageSrc": "projects/project3.png",
+    "description": "Developed a fully responsive movie theater website with modern UI/UX design, featuring movie showcase, showtimes management, and interactive user experience components.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Bootstrap 4", "jQuery", "Animate.css"],
+    "demo": "https://github.com/DatThoDai/MovieWeb",
+    "source": "https://github.com/DatThoDai/MovieWeb"
+  },
+  {
+    "title": "HONDA AUTOMOTIVE WEBSITE",
+    "imageSrc": "projects/project4.png",
+    "description": "Developed a modern, responsive Honda automotive website showcasing vehicle lineup with interactive features, smooth animations, and mobile-first design approach.",
+    "skills": ["HTML5", "CSS3/SCSS", "JavaScript", "Bootstrap 4", "Swiper.js", "WOW.js"],
+    "demo": "https://github.com/DatThoDai/honda-automotive-website",
+    "source": "https://github.com/DatThoDai/honda-automotive-website"
+  }
+]
